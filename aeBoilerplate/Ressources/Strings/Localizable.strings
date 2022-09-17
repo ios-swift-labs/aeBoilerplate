@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  aeBoilerplate
+
+  Created by ABDELAZiZ EL ARASSi on 6/9/2022.
+  
+*/
+
+"app_name" = "æ Boilerplate";
+// Actions
+"action_oui"="Oui";
+"action_non"="Non";
+"action_ok"="Ok";
+"action_annuler"="Annuler";
+// Errors
+"error_server" = "Impossible de joindre le serveur. Veuillez réessayer.";
+"popup_reconnecte_title" = "Your session has expired.";
+"error_msg_code" = "Error with code : ";
+"error_internet" = "Unable to connect to the internet";
+"error_post" = "Oops! no post found";
